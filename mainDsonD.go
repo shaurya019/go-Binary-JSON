@@ -1,0 +1,1 @@
+// bson.D: This represents a BSON document as a slice of bson.E elements. It's useful when order matters.
